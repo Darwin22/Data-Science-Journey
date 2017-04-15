@@ -9,18 +9,18 @@ I am in no way an expert nor do I claim to be, but I will be fully upfront and h
 
 After doing some research I realized that Python and R were the choice of languages for Data Scientists, and I flipped a coin and chose to learn Python. Learning R is next on my list, but I have been experimenting with Python a bit and here are some of the projects I have completed so far.
 
-Project 1:  [Gun Deaths in US Data Analyzed](https://github.com/divyamb/Data-Science-Journey/blob/master/Exploring%20Gun%20Deaths.ipynb)
-Data for Project 1:[Thanksgiving Data](https://github.com/divyamb/Data-Science-Journey/blob/master/thanksgiving.csv)
+* Project 1:  [Gun Deaths in US Data Analyzed](https://github.com/divyamb/Data-Science-Journey/blob/master/Exploring%20Gun%20Deaths.ipynb)
+    *Data for Project 1:[Thanksgiving Data](https://github.com/divyamb/Data-Science-Journey/blob/master/thanksgiving.csv)
 
 
-Project 2:  [Thanksgiving Dinner Data Analyzed](https://github.com/divyamb/Data-Science-Portfolio/blob/master/Thanksgiving%20data%20analyzed.ipynb)
-Data for Project 2:[Census Data](https://github.com/divyamb/Data-Science-Journey/blob/master/census.csv)[Guns Data-click view raw if it doesnt show](https://github.com/divyamb/Data-Science-Journey/blob/master/guns.csv)
+* Project 2:  [Thanksgiving Dinner Data Analyzed](https://github.com/divyamb/Data-Science-Portfolio/blob/master/Thanksgiving%20data%20analyzed.ipynb)
+    *Data for Project 2:[Census Data](https://github.com/divyamb/Data-Science-Journey/blob/master/census.csv)[Guns Data-click view raw if it doesnt show](https://github.com/divyamb/Data-Science-Journey/blob/master/guns.csv)
 
-Project 3:  [Visualizing Earnings Based on College Majors](https://github.com/divyamb/Data-Science-Journey/blob/master/visualizing%20earnings%20college%20majors.ipynb)
-Data for Project 3:[Recent Grads Data](https://github.com/divyamb/Data-Science-Journey/blob/master/recent-grads.csv)
+* Project 3:  [Visualizing Earnings Based on College Majors](https://github.com/divyamb/Data-Science-Journey/blob/master/visualizing%20earnings%20college%20majors.ipynb)
+    *Data for Project 3:[Recent Grads Data](https://github.com/divyamb/Data-Science-Journey/blob/master/recent-grads.csv)
 
-Project 4:  [Visualizing Gender Gap in College Degrees](https://github.com/divyamb/Data-Science-Journey/blob/master/Visualizing%20gender%20gap%20for%20all%20degrees.ipynb)
-Data for Project 4:[Percentage Bachelor Degrees Women USA Data](https://github.com/divyamb/Data-Science-Journey/blob/master/percent-bachelors-degrees-women-usa.csv)
+* Project 4:  [Visualizing Gender Gap in College Degrees](https://github.com/divyamb/Data-Science-Journey/blob/master/Visualizing%20gender%20gap%20for%20all%20degrees.ipynb)
+    *Data for Project 4:[Percentage Bachelor Degrees Women USA Data](https://github.com/divyamb/Data-Science-Journey/blob/master/percent-bachelors-degrees-women-usa.csv)
 
 ## Background
 
