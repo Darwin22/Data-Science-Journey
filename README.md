@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to My Data Science Journey
 
-You can use the [editor on GitHub](https://github.com/divyamb/Data-Science-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my journey into exploring different types of data and coming to an understanding of how I can use this data to make better decisions for myself and others.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am in no way an expert nor do I claim to be, but I will be fully upfront and honest about all my mistakes as well as all my accomplishments. I will share as much as I can on this journey of exploring data.
 
-### Markdown
+## Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Divyam Balani, I am 23 years old and I was born and raised in India. I decided to come to the United States for further studying after visiting my uncle, who was a professor of Radiology at the University of Pennsylvania in Philadelphia in 2010 (he has since moved to Liverpool,UK and I have graduated). A trip to the US was a gift from my father because I had graduated 10th grade(10th grade is a big deal back in India) with a 3.8 GPA. 
 
-```markdown
-Syntax highlighted code block
+I took up business in my early years at Indiana University (where I decided to go to school) but realized it was not for me when I saw my fellow friends just blindly following the norm. 
 
-# Header 1
-## Header 2
-### Header 3
+I then transitioned into psychology and mathematics as my majors but ended up choosing math as my minor due to financial reasons. Around my senior year of college I started taking a keen interest in data and the applications of it in decision making. 
 
-- Bulleted
-- List
+I **quickly** realized that having the ability to understand data meant that I wasn't just another kid with an opinion but in fact I had the data to back it up. I also realized that data can be distorted and can be used to paint the exact opposite picture of the one intended, if not presented correctly. 
 
-1. Numbered
-2. List
+Ever since then, I have been extremely fascinated with data ad the power that it provides for decision makers.
 
-**Bold** and _Italic_ and `Code` text
+My goal eventually is to be able to use this power to impact the local communities in my home country (India) in ways which result in better infrastructure and better livelihood for the people. I don't exactly know how I am going to accomplish this goal but I know I will.
 
-[Link](url) and ![Image](src)
-```
+## Projects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+After doing some research I realized that Python and R were the choice of languages for Data Scientists, and I flipped a coin and chose to learn Python. Learning R is next on my list, but I have been experimenting with Python a bit and here are some of the projects I have completed so far.
 
-### Jekyll Themes
+Project 1:  [Thanksgiving Dinner Data Analyzed](https://github.com/divyamb/Data-Science-Portfolio/blob/master/Thanksgiving%20data%20analyzed.ipynb)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/divyamb/Data-Science-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Project 2:  [Gun Deaths in US Data Analyzed](http://google.com)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Project 3:  [Visualizing Earnings Based on College Majors](http://google.com)
+
+
+Project 4:  [Visualizing Gender Gap in College Degrees](http://google.com)
+
+
+
+
