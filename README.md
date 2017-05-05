@@ -62,9 +62,9 @@ I took up business in my early years at Indiana University (where I decided to g
 
 I then transitioned into psychology and mathematics as my majors but ended up choosing math as my minor due to financial reasons. Around my senior year of college I started taking a keen interest in data and the applications of it in decision making. 
 
-I **quickly** realized that having the ability to understand data meant that I wasn't just another kid with an opinion but in fact I had the data to back it up. I also realized that data can be distorted and can be used to paint the exact opposite picture of the one intended, if not presented correctly. 
+I **quickly** realized that having the ability to understand data meant that I wasn't just another kid with an opinion but in fact I had the data to back it up. Furthermore, I found out that no matter what happens, us humans are going to capture more datapoints in the future than ever before, and so far it shows no sign of stopping. Thus the power of understanding data and being able to make valuable inferences from it will allow me to solve problems that I am passionate about and work with the people I've dreamt about working with.
 
-Ever since then, I have been extremely fascinated with data ad the power that it provides for decision makers.
+Ever since then, I have been extremely fascinated with data and the power that it provides for decision makers.
 
 My goal eventually is to be able to use this power to impact the local communities in my home country (India) in ways which result in better infrastructure and better livelihood for the people. I don't exactly know how I am going to accomplish this goal but I know I will.
 
