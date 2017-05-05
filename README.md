@@ -28,6 +28,18 @@ After doing some research I realized that Python and R were the choice of langua
    * Data for Project 4: [Percentage Bachelor Degrees Women USA Data](https://github.com/divyamb/Data-Science-Journey/blob/master/percent-bachelors-degrees-women-usa.csv)
 
 
+
+* Project 5:  [Analyzing NYC High School Data](https://github.com/divyamb/Data-Science-Journey/blob/master/%20NYC%20Schools%20data%20analyzed.ipynb)
+   * Data for Project 5: [AP 2010](https://github.com/divyamb/Data-Science-Journey/blob/master/ap_2010.csv)[Class Size](https://github.com/divyamb/Data-Science-Journey/blob/master/class_size.csv)[Demographics](https://github.com/divyamb/Data-Science-Journey/blob/master/demographics.csv)[Graduation](https://github.com/divyamb/Data-Science-Journey/blob/master/graduation.csv)[HS Directory](https://github.com/divyamb/Data-Science-Journey/blob/master/hs_directory.csv)[SAT Results](https://github.com/divyamb/Data-Science-Journey/blob/master/sat_results.csv)[Survey All](https://github.com/divyamb/Data-Science-Journey/blob/master/survey_all.txt)[Survey d75](https://github.com/divyamb/Data-Science-Journey/blob/master/survey_d75.txt)
+   
+   
+   
+* Project 6:  [Star Wars Survey](https://github.com/divyamb/Data-Science-Journey/blob/master/Star%20Wars%20Survey.ipynb)
+   * Data for Project 6: [Star Wars Survey Results](https://github.com/divyamb/Data-Science-Journey/blob/master/star_wars.csv)
+   
+   
+
+
 ## Background
 
 My name is Divyam Balani, I am 23 years old and I was born and raised in India. I decided to come to the United States for further studying after visiting my uncle, who was a professor of Radiology at the University of Pennsylvania in Philadelphia in 2010 (he has since moved to Liverpool,UK and I have graduated). A trip to the US was a gift from my father because I had graduated 10th grade(10th grade is a big deal back in India) with a 3.8 GPA. 
