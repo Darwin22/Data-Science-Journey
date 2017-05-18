@@ -17,7 +17,7 @@ After doing some research I realized that Python and R were the choice of langua
 
 * Project 2:  [Thanksgiving Dinner Data Analyzed](https://github.com/divyamb/Data-Science-Portfolio/blob/master/Thanksgiving%20data%20analyzed.ipynb)
    * Data for Project 2: 
-        [Census Data](https://github.com/divyamb/Data-Science-Journey/blob/master/census.csv)
+        [Census Data](https://github.com/divyamb/Data-Science-Journey/blob/master/census.csv),
         [Guns Data](https://github.com/divyamb/Data-Science-Journey/blob/master/guns.csv)
 
 
@@ -36,13 +36,13 @@ After doing some research I realized that Python and R were the choice of langua
 
 * Project 5:  [Analyzing NYC High School Data](https://github.com/divyamb/Data-Science-Journey/blob/master/%20NYC%20Schools%20data%20analyzed.ipynb)
    * Data for Project 5: 
-        [AP 2010](https://github.com/divyamb/Data-Science-Journey/blob/master/ap_2010.csv)
-        [Class Size](https://github.com/divyamb/Data-Science-Journey/blob/master/class_size.csv)
-        [Demographics](https://github.com/divyamb/Data-Science-Journey/blob/master/demographics.csv)
-        [Graduation](https://github.com/divyamb/Data-Science-Journey/blob/master/graduation.csv)
-        [HS Directory](https://github.com/divyamb/Data-Science-Journey/blob/master/hs_directory.csv)
-        [SAT Results](https://github.com/divyamb/Data-Science-Journey/blob/master/sat_results.csv)
-        [Survey All](https://github.com/divyamb/Data-Science-Journey/blob/master/survey_all.txt)
+        [AP 2010](https://github.com/divyamb/Data-Science-Journey/blob/master/ap_2010.csv),
+        [Class Size](https://github.com/divyamb/Data-Science-Journey/blob/master/class_size.csv),
+        [Demographics](https://github.com/divyamb/Data-Science-Journey/blob/master/demographics.csv),
+        [Graduation](https://github.com/divyamb/Data-Science-Journey/blob/master/graduation.csv),
+        [HS Directory](https://github.com/divyamb/Data-Science-Journey/blob/master/hs_directory.csv),
+        [SAT Results](https://github.com/divyamb/Data-Science-Journey/blob/master/sat_results.csv),
+        [Survey All](https://github.com/divyamb/Data-Science-Journey/blob/master/survey_all.txt),
         [Survey d75](https://github.com/divyamb/Data-Science-Journey/blob/master/survey_d75.txt)
    
    
@@ -55,7 +55,7 @@ After doing some research I realized that Python and R were the choice of langua
  
 * Project 7:  [Preparing Academy Awards Data for SQLite](https://github.com/divyamb/Data-Science-Journey/blob/master/Basics.ipynb)
    * Data for Project 7: 
-        [Academy Awards](https://github.com/divyamb/Data-Science-Journey/blob/master/academy_awards.csv)
+        [Academy Awards](https://github.com/divyamb/Data-Science-Journey/blob/master/academy_awards.csv),
         [Nominations](https://github.com/divyamb/Data-Science-Journey/blob/master/nominations.db)
         
         
