@@ -50,6 +50,20 @@ After doing some research I realized that Python and R were the choice of langua
 * Project 6:  [Star Wars Survey](https://github.com/divyamb/Data-Science-Journey/blob/master/Star%20Wars%20Survey.ipynb)
    * Data for Project 6: 
         [Star Wars Survey Results](https://github.com/divyamb/Data-Science-Journey/blob/master/star_wars.csv)
+ 
+ 
+ 
+* Project 7:  [Preparing Academy Awards Data for SQLite](https://github.com/divyamb/Data-Science-Journey/blob/master/Basics.ipynb)
+   * Data for Project 7: 
+        [Academy Awards](https://github.com/divyamb/Data-Science-Journey/blob/master/academy_awards.csv)
+        [Nominations](https://github.com/divyamb/Data-Science-Journey/blob/master/nominations.db)
+        
+        
+        
+        
+* Project 8:  [Trying to Win Jeopardy Based On Past Questions and Answers](https://github.com/divyamb/Data-Science-Journey/blob/master/Jeopardy.ipynb)
+   * Data for Project 8: 
+        [Jeopardy Data](https://github.com/divyamb/Data-Science-Journey/blob/master/jeopardy.csv)
    
    
 
